@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cricket Score Counter</string>
+    <string name="a">Team A</string>
+    <string name="zero">0</string>
+    <string name="slash">/</string>
+    <string name="dot">.</string>
+    <string name="plusone">+1</string>
+    <string name="plustwo">+2</string>
+    <string name="plusthree">+3</string>
+    <string name="plusfour">+4</string>
+    <string name="plussix">+6</string>
+    <string name="wide">Wd</string>
+    <string name="dott">dot</string>
+    <string name="wkt">wkt</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">RESET</string>
+</resources>

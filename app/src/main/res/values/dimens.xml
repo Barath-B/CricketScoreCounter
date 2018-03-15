@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lay_nor">20dp</dimen>
+    <dimen name="lay_nm">16dp</dimen>
+    <dimen name="lay_sm">8dp</dimen>
+    <dimen name="lay_vs">4dp</dimen>
+    <dimen name="lay_z">0dp</dimen>
+
+    <dimen name="txt_sm">20sp</dimen>
+    <dimen name="txt_nor">25sp</dimen>
+    <dimen name="txt_big">56sp</dimen>
+
+    <dimen name="but_size">50dp</dimen>
+
+    <dimen name="view_size">1dp</dimen>
+</resources>
